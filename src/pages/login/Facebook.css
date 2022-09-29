@@ -1,0 +1,46 @@
+body{
+    background-color:rgb(220, 248, 248);
+}
+.head{
+    font-size: 40px;
+    font-family: boulder;
+    margin-top: 100px;
+    color:rgb(64, 155, 240)
+}
+.title{
+    font-size: 15px;
+    color: rgb(40, 37, 37);
+}
+.container{
+    background-color: white;
+    height:60%;
+    width:30%;
+    border-radius: 4px;
+}
+.button{
+    width:340px;
+    border-radius: 4px;
+    background-color:rgb(64, 155, 240) ;
+    color: white;
+    border: none;
+    height:35px;
+}
+.button:hover{
+    background-color: rgb(38, 107, 171);
+}
+.log{
+    font-size: 13px;
+}
+.button2{
+    width:340px;
+    border-radius: 4px;
+    background-color:rgb(69, 176, 16) ;
+    color: white;
+    border: none;
+    height: 35px;
+    width: 60%;
+    font-size: 15px;
+}
+.button2:hover{
+    background-color:rgb(46, 122, 8)  
+}
